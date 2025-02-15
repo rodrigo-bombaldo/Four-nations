@@ -1,0 +1,2 @@
+echo Olá, mundo!
+pause
